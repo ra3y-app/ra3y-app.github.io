@@ -4,9 +4,9 @@
     "titleAr":    "تطبيق رَاعِي",
     "titleEn":    "Ra3y App",
     "version":    "v1.2.0",
-    "apkFile":    "Ra3y.apk",
+    "apkFile":    "Ra3y-app.apk",
     "androidMin": "Android 8.0+",
-    "apkSize":    "~18 MB"
+    "apkSize":    "~5 MB"
   },
   "ar": {
     "description": "رفيقك الكامل في الرعاية الرعوية. أدر ملفات الرعية، تابع مواعيد الاعتراف، ونظّم المواعيد بكل سهولة.",
